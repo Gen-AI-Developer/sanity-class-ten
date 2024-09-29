@@ -7,7 +7,7 @@ const Hero = () => {
     <section>
       <div>
         <div>
-          <Image src={Star} alt="star" height={100} width={199} />
+          {/* <Image src={Star} alt="star" height={100} width={199} /> */}
         </div>
       </div>
     </section>
